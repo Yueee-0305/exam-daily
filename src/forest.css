@@ -23,3 +23,14 @@
 /* Background fills the container; illustration scales uniformly. */
 .mini .garden-panel .garden-hero,.garden-panel .garden-hero{background:linear-gradient(to bottom,#bbd1c5 0%,#bbd1c5 64%,#d3d8b8 100%)}
 .garden-panel .garden-hero>.garden-scene{object-fit:contain;object-position:center bottom}
+
+/* Compact garden follows its illustration's aspect ratio instead of a fixed height. */
+.mini .garden-panel .garden-hero{height:auto;aspect-ratio:700 / 520;min-height:0;container-type:inline-size}
+.mini .garden-panel .garden-hero>.garden-scene{width:100%;height:100%;inset:0}
+.mini .garden-panel .garden-welcome{top:14px;left:16px;width:calc(100% - 32px);padding:0}
+.mini .garden-panel .garden-welcome h1{line-height:1.4;font-size:24px}
+.mini .garden-panel .garden-welcome p{margin-top:6px}
+.mini .garden-panel .hero-buttons{margin-top:12px;gap:8px}
+@container(max-width:460px){.mini .garden-panel .garden-welcome h1{font-size:20px}.mini .garden-panel .hero-buttons button{padding:7px 9px;gap:5px}}
+@media(max-width:700px){.garden-panel .garden-hero,.mini .garden-panel .garden-hero{height:auto;aspect-ratio:700 / 520;min-height:0}.garden-panel .garden-welcome{top:14px;left:16px;width:calc(100% - 32px);padding:0}.garden-panel .garden-welcome h1{font-size:20px;line-height:1.4}.garden-panel .garden-welcome p{margin-top:6px}.garden-panel .hero-buttons{margin-top:12px;gap:8px}.garden-panel .hero-buttons button{padding:7px 9px;gap:5px}}
+@media(max-width:380px){.garden-panel .garden-hero,.mini .garden-panel .garden-hero{aspect-ratio:700 / 580}.garden-panel .garden-welcome{left:12px;width:calc(100% - 24px)}.garden-panel .hero-buttons{margin-top:8px}.garden-panel .hero-buttons button{padding:6px 8px}}
