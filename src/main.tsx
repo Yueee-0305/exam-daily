@@ -3,3 +3,5 @@ import {createRoot} from 'react-dom/client';
 import Dashboard from './dashboard-v2';
 import './forest.css';
 createRoot(document.getElementById('root')!).render(<Dashboard/>);
+
+if('serviceWorker' in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
