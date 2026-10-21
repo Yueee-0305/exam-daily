@@ -1,1 +1,44 @@
-{"name":"exam-daily-desktop","version":"0.2.0","private":true,"description":"日日有进 · 橘子桌面客户端","author":"Yueee","license":"MIT","main":"main.cjs","scripts":{"start":"electron .","dist:win":"electron-builder --win portable --x64 --publish never"},"devDependencies":{"electron":"44.9.3","electron-builder":"26.15.3"},"build":{"appId":"io.github.yueee0305.exam-daily","productName":"日日有进","directories":{"output":"dist"},"files":["main.cjs","preload.cjs","app/**/*"],"win":{"icon":"app/favicon.ico","target":[{"target":"portable","arch":["x64"]}],"artifactName":"exam-daily-desktop-${version}-windows-x64.${ext}","portable":{"artifactName":"exam-daily-desktop-${version}-windows-x64.${ext}"}}}
+{
+  "name": "exam-daily-desktop",
+  "version": "0.2.0",
+  "private": true,
+  "description": "日日有进 · 橘子桌面客户端",
+  "author": "Yueee",
+  "license": "MIT",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "dist:win": "electron-builder --win portable --x64 --publish never"
+  },
+  "devDependencies": {
+    "electron": "44.9.3",
+    "electron-builder": "26.15.3"
+  },
+  "build": {
+    "appId": "io.github.yueee0305.exam-daily",
+    "productName": "日日有进",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.cjs",
+      "preload.cjs",
+      "app/**/*"
+    ],
+    "win": {
+      "icon": "app/favicon.ico",
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "exam-daily-desktop-${version}-windows-x64.${ext}"
+    },
+    "portable": {
+      "artifactName": "exam-daily-desktop-${version}-windows-x64.${ext}"
+    }
+  }
+}
