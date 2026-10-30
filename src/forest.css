@@ -51,3 +51,5 @@ body,.app,.app *{font-family:var(--app-font)!important}.app{font-weight:400}.app
 /* 悬浮内容仅绘制橘子；操作系统窗口的底色和标题栏由浏览器管理。 */
 body.desktop-pet-window{background:transparent!important}.desktop-pet-window .desktop-pet{background:transparent!important}.desktop-pet-cat{height:100%;flex:1;width:100%;border:0;border-radius:0;background:transparent;box-shadow:none}.desktop-pet-cat:hover,.desktop-pet-cat:active{background:transparent}.desktop-pet-cat svg{max-height:none}.desktop-pet-cat:focus-visible{outline:2px solid #678b77;outline-offset:-3px}
 .desktop-pet-cat{user-select:none;-webkit-user-select:none;touch-action:none}.desktop-pet-window,.desktop-pet-window #root{background:transparent!important}
+
+.study-focus .card-heading{flex-wrap:wrap}.study-focus summary{cursor:pointer;font-size:16px;margin:16px 0}.study-focus .actions{flex-wrap:wrap;margin-top:16px}.study-phases p{font-size:16px;line-height:1.7}

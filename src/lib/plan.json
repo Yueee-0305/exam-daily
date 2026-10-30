@@ -612,1534 +612,1426 @@
     },
     {
       "date": "2026-10-30",
-      "phase": "江苏省考备考",
+      "phase": "摸底与调整 · 申论优先",
       "tasks": [
         {
-          "id": "XC-114",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第27课时",
-          "courseId": "XC-114"
-        },
-        {
-          "id": "XC-115",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第28课时",
-          "courseId": "XC-115"
-        },
-        {
-          "id": "XC-116",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第29课时",
-          "courseId": "XC-116"
-        },
-        {
-          "id": "XC-117",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第30课时",
-          "courseId": "XC-117"
-        },
-        {
-          "id": "XC-118",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第31课时，完成配套练习与复盘",
-          "courseId": "XC-118"
-        },
-        {
-          "id": "SL-021",
+          "id": "focus27-sl-diagnostic",
           "subject": "申论",
-          "kind": "课程",
-          "text": "对照型大作文第3课时（课时待核对）",
-          "courseId": "SL-021"
+          "kind": "摸底",
+          "text": "选江苏目标类别真题，独立手写小题1—2道，记录审题、找点和表达问题（60分钟）",
+          "courseId": null
         },
         {
-          "id": "SL-022",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "课程",
-          "text": "对照型大作文第4课时（课时待核对）",
-          "courseId": "SL-022"
+          "kind": "复盘",
+          "text": "对照材料与答案标出遗漏要点、分类和表达问题，重写其中1题（60分钟）",
+          "courseId": null
         },
         {
-          "id": "sl-practice",
+          "id": "focus27-sl-essay",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "手写标题＋开头＋3个分论点；隔日完成一篇全文"
+          "kind": "大作文",
+          "text": "独立完成大作文审题、标题、开头与3个分论点，写一个论证段；按问题补看课程（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-diagnostic",
+          "subject": "行测",
+          "kind": "摸底",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时摸底；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步统计各模块正确率、耗时及未完成题数，标记薄弱方法（30分钟）；次日继续复盘",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-10-31",
-      "phase": "江苏省考备考",
+      "phase": "摸底与调整 · 申论优先",
       "tasks": [
         {
-          "id": "XC-119",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第32课时",
-          "courseId": "XC-119"
-        },
-        {
-          "id": "XC-120",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第33课时",
-          "courseId": "XC-120"
-        },
-        {
-          "id": "XC-121",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "图形推理第34课时",
-          "courseId": "XC-121"
-        },
-        {
-          "id": "XC-122",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第1课时",
-          "courseId": "XC-122"
-        },
-        {
-          "id": "XC-123",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第2课时，完成配套练习与复盘",
-          "courseId": "XC-123"
-        },
-        {
-          "id": "SL-023",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "课程",
-          "text": "是为怎第1课时（课时待核对）",
-          "courseId": "SL-023"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
         },
         {
-          "id": "SL-024",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "课程",
-          "text": "是为怎第2课时（课时待核对）",
-          "courseId": "SL-024"
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
         },
         {
-          "id": "sl-practice",
+          "id": "focus27-sl-essay",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "手写标题＋开头＋3个分论点；隔日完成一篇全文"
+          "kind": "大作文",
+          "text": "独立完成大作文全文1篇，检查切题、论点区分与论据解释，修改问题段（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "定义判断为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-01",
-      "phase": "江苏省考备考",
+      "phase": "摸底与调整 · 申论优先",
       "tasks": [
         {
-          "id": "XC-124",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第3课时",
-          "courseId": "XC-124"
-        },
-        {
-          "id": "XC-125",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第4课时",
-          "courseId": "XC-125"
-        },
-        {
-          "id": "XC-126",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第5课时",
-          "courseId": "XC-126"
-        },
-        {
-          "id": "XC-127",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第6课时",
-          "courseId": "XC-127"
-        },
-        {
-          "id": "XC-128",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第7课时，完成配套练习与复盘",
-          "courseId": "XC-128"
-        },
-        {
-          "id": "SL-025",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "课程",
-          "text": "是为怎第3课时（课时待核对）",
-          "courseId": "SL-025"
+          "kind": "练习",
+          "text": "问题对策题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
         },
         {
-          "id": "SL-026",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "课程",
-          "text": "是为怎第4课时（课时待核对）",
-          "courseId": "SL-026"
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
         },
         {
-          "id": "sl-practice",
+          "id": "focus27-sl-essay",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "手写标题＋开头＋3个分论点；隔日完成一篇全文"
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "定义判断为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-02",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-129",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第8课时",
-          "courseId": "XC-129"
-        },
-        {
-          "id": "XC-130",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第9课时",
-          "courseId": "XC-130"
-        },
-        {
-          "id": "XC-131",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第10课时",
-          "courseId": "XC-131"
-        },
-        {
-          "id": "XC-132",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第11课时",
-          "courseId": "XC-132"
-        },
-        {
-          "id": "XC-133",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第12课时，完成配套练习与复盘",
-          "courseId": "XC-133"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "公文题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "定义判断为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-03",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-134",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第13课时",
-          "courseId": "XC-134"
-        },
-        {
-          "id": "XC-135",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第14课时",
-          "courseId": "XC-135"
-        },
-        {
-          "id": "XC-136",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第15课时",
-          "courseId": "XC-136"
-        },
-        {
-          "id": "XC-137",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第16课时",
-          "courseId": "XC-137"
-        },
-        {
-          "id": "XC-138",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第17课时，完成配套练习与复盘",
-          "courseId": "XC-138"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "类比推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-04",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-139",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第18课时",
-          "courseId": "XC-139"
-        },
-        {
-          "id": "XC-140",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第19课时",
-          "courseId": "XC-140"
-        },
-        {
-          "id": "XC-141",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第20课时",
-          "courseId": "XC-141"
-        },
-        {
-          "id": "XC-142",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第21课时",
-          "courseId": "XC-142"
-        },
-        {
-          "id": "XC-143",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第22课时，完成配套练习与复盘",
-          "courseId": "XC-143"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "独立完成大作文全文1篇，检查切题、论点区分与论据解释，修改问题段（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "图形推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-05",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-144",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第23课时",
-          "courseId": "XC-144"
-        },
-        {
-          "id": "XC-145",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第24课时",
-          "courseId": "XC-145"
-        },
-        {
-          "id": "XC-146",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第25课时",
-          "courseId": "XC-146"
-        },
-        {
-          "id": "XC-147",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第26课时",
-          "courseId": "XC-147"
-        },
-        {
-          "id": "XC-148",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第27课时，完成配套练习与复盘",
-          "courseId": "XC-148"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "问题对策题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "逻辑判断为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-06",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-149",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第28课时",
-          "courseId": "XC-149"
-        },
-        {
-          "id": "XC-150",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第29课时",
-          "courseId": "XC-150"
-        },
-        {
-          "id": "XC-151",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第30课时",
-          "courseId": "XC-151"
-        },
-        {
-          "id": "XC-152",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第31课时",
-          "courseId": "XC-152"
-        },
-        {
-          "id": "XC-153",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第32课时，完成配套练习与复盘",
-          "courseId": "XC-153"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "公文题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-07",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-154",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第33课时",
-          "courseId": "XC-154"
-        },
-        {
-          "id": "XC-155",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第34课时",
-          "courseId": "XC-155"
-        },
-        {
-          "id": "XC-156",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第35课时",
-          "courseId": "XC-156"
-        },
-        {
-          "id": "XC-157",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第36课时",
-          "courseId": "XC-157"
-        },
-        {
-          "id": "XC-158",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "逻辑判断第37课时，完成配套练习与复盘",
-          "courseId": "XC-158"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2022地市级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "练习",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "独立完成大作文全文1篇，检查切题、论点区分与论据解释，修改问题段（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-paper",
+          "subject": "行测",
+          "kind": "套卷",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步复盘30分钟：记录各模块正确率、用时与放弃题，次日继续复盘",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-08",
-      "phase": "江苏省考备考",
+      "phase": "申论小题基础 · 申论优先",
       "tasks": [
         {
-          "id": "XC-025",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第1课时",
-          "courseId": "XC-025"
-        },
-        {
-          "id": "XC-026",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第2课时",
-          "courseId": "XC-026"
-        },
-        {
-          "id": "XC-027",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第3课时",
-          "courseId": "XC-027"
-        },
-        {
-          "id": "XC-028",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第4课时",
-          "courseId": "XC-028"
-        },
-        {
-          "id": "XC-029",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第5课时，完成配套练习与复盘",
-          "courseId": "XC-029"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2022地市级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-09",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-030",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第6课时",
-          "courseId": "XC-030"
-        },
-        {
-          "id": "XC-031",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第7课时",
-          "courseId": "XC-031"
-        },
-        {
-          "id": "XC-032",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第8课时",
-          "courseId": "XC-032"
-        },
-        {
-          "id": "XC-033",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第9课时",
-          "courseId": "XC-033"
-        },
-        {
-          "id": "XC-034",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第10课时，完成配套练习与复盘",
-          "courseId": "XC-034"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2023副省级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "练习",
+          "text": "问题对策题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-10",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-035",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第11课时",
-          "courseId": "XC-035"
-        },
-        {
-          "id": "XC-036",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第12课时",
-          "courseId": "XC-036"
-        },
-        {
-          "id": "XC-037",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第13课时",
-          "courseId": "XC-037"
-        },
-        {
-          "id": "XC-038",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第14课时",
-          "courseId": "XC-038"
-        },
-        {
-          "id": "XC-039",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第15课时，完成配套练习与复盘",
-          "courseId": "XC-039"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-paper",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2023副省级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "套卷",
+          "text": "江苏目标类别申论第1套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-11",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-040",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第16课时",
-          "courseId": "XC-040"
-        },
-        {
-          "id": "XC-041",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第17课时",
-          "courseId": "XC-041"
-        },
-        {
-          "id": "XC-042",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第18课时",
-          "courseId": "XC-042"
-        },
-        {
-          "id": "XC-043",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第19课时",
-          "courseId": "XC-043"
-        },
-        {
-          "id": "XC-044",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第20课时，完成配套练习与复盘",
-          "courseId": "XC-044"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2024地市级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-12",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-045",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第21课时",
-          "courseId": "XC-045"
-        },
-        {
-          "id": "XC-046",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第22课时",
-          "courseId": "XC-046"
-        },
-        {
-          "id": "XC-047",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第23课时",
-          "courseId": "XC-047"
-        },
-        {
-          "id": "XC-048",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第24课时",
-          "courseId": "XC-048"
-        },
-        {
-          "id": "XC-049",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第25课时，完成配套练习与复盘",
-          "courseId": "XC-049"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2024地市级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-13",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-050",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第26课时",
-          "courseId": "XC-050"
-        },
-        {
-          "id": "XC-051",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第27课时",
-          "courseId": "XC-051"
-        },
-        {
-          "id": "XC-052",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第28课时",
-          "courseId": "XC-052"
-        },
-        {
-          "id": "XC-053",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第29课时",
-          "courseId": "XC-053"
-        },
-        {
-          "id": "XC-054",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第30课时，完成配套练习与复盘",
-          "courseId": "XC-054"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2024副省级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "练习",
+          "text": "问题对策题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-14",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-055",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第31课时",
-          "courseId": "XC-055"
-        },
-        {
-          "id": "XC-056",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第32课时",
-          "courseId": "XC-056"
-        },
-        {
-          "id": "XC-057",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "资料分析第33课时",
-          "courseId": "XC-057"
-        },
-        {
-          "id": "XC-159",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第1课时",
-          "courseId": "XC-159"
-        },
-        {
-          "id": "XC-160",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第2课时，完成配套练习与复盘",
-          "courseId": "XC-160"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-paper",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2024副省级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "套卷",
+          "text": "江苏目标类别申论第2套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-paper",
+          "subject": "行测",
+          "kind": "套卷",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步复盘30分钟：记录各模块正确率、用时与放弃题，次日继续复盘",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-15",
-      "phase": "江苏省考备考",
+      "phase": "江苏真题与基础巩固 · 申论优先",
       "tasks": [
         {
-          "id": "XC-161",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第3课时",
-          "courseId": "XC-161"
-        },
-        {
-          "id": "XC-162",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第4课时",
-          "courseId": "XC-162"
-        },
-        {
-          "id": "XC-163",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第5课时",
-          "courseId": "XC-163"
-        },
-        {
-          "id": "XC-164",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第6课时",
-          "courseId": "XC-164"
-        },
-        {
-          "id": "XC-165",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第7课时，完成配套练习与复盘",
-          "courseId": "XC-165"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2025地市级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-16",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-166",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第8课时",
-          "courseId": "XC-166"
-        },
-        {
-          "id": "XC-167",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第9课时",
-          "courseId": "XC-167"
-        },
-        {
-          "id": "XC-168",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第10课时",
-          "courseId": "XC-168"
-        },
-        {
-          "id": "XC-169",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第11课时",
-          "courseId": "XC-169"
-        },
-        {
-          "id": "XC-170",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "数量关系第12课时，完成配套练习与复盘",
-          "courseId": "XC-170"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2025地市级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-17",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-058",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第1课时",
-          "courseId": "XC-058"
-        },
-        {
-          "id": "XC-059",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第2课时",
-          "courseId": "XC-059"
-        },
-        {
-          "id": "XC-060",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第3课时",
-          "courseId": "XC-060"
-        },
-        {
-          "id": "XC-061",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第4课时",
-          "courseId": "XC-061"
-        },
-        {
-          "id": "XC-062",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第5课时，完成配套练习与复盘",
-          "courseId": "XC-062"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-paper",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2025副省级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "套卷",
+          "text": "江苏目标类别申论第3套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-18",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-063",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第6课时",
-          "courseId": "XC-063"
-        },
-        {
-          "id": "XC-064",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第7课时",
-          "courseId": "XC-064"
-        },
-        {
-          "id": "XC-065",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第8课时",
-          "courseId": "XC-065"
-        },
-        {
-          "id": "XC-066",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第9课时",
-          "courseId": "XC-066"
-        },
-        {
-          "id": "XC-067",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第10课时，完成配套练习与复盘",
-          "courseId": "XC-067"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2025副省级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-19",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-068",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第11课时",
-          "courseId": "XC-068"
-        },
-        {
-          "id": "XC-069",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第12课时",
-          "courseId": "XC-069"
-        },
-        {
-          "id": "XC-070",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第13课时",
-          "courseId": "XC-070"
-        },
-        {
-          "id": "XC-071",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第14课时",
-          "courseId": "XC-071"
-        },
-        {
-          "id": "XC-072",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第15课时，完成配套练习与复盘",
-          "courseId": "XC-072"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "判断推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-20",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-073",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第16课时",
-          "courseId": "XC-073"
-        },
-        {
-          "id": "XC-074",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第17课时",
-          "courseId": "XC-074"
-        },
-        {
-          "id": "XC-075",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第18课时",
-          "courseId": "XC-075"
-        },
-        {
-          "id": "XC-076",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第19课时",
-          "courseId": "XC-076"
-        },
-        {
-          "id": "XC-077",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第20课时，完成配套练习与复盘",
-          "courseId": "XC-077"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "练习",
+          "text": "理解题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-21",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-078",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第21课时",
-          "courseId": "XC-078"
-        },
-        {
-          "id": "XC-079",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第22课时",
-          "courseId": "XC-079"
-        },
-        {
-          "id": "XC-080",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第23课时",
-          "courseId": "XC-080"
-        },
-        {
-          "id": "XC-081",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第24课时",
-          "courseId": "XC-081"
-        },
-        {
-          "id": "XC-082",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第25课时，完成配套练习与复盘",
-          "courseId": "XC-082"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-paper",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "套卷",
+          "text": "江苏目标类别申论第4套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-paper",
+          "subject": "行测",
+          "kind": "套卷",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步复盘30分钟：记录各模块正确率、用时与放弃题，次日继续复盘",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-22",
-      "phase": "江苏省考备考",
+      "phase": "江苏整卷训练 · 申论优先",
       "tasks": [
         {
-          "id": "XC-083",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第26课时",
-          "courseId": "XC-083"
-        },
-        {
-          "id": "XC-084",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第27课时",
-          "courseId": "XC-084"
-        },
-        {
-          "id": "XC-085",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第28课时",
-          "courseId": "XC-085"
-        },
-        {
-          "id": "XC-086",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第29课时",
-          "courseId": "XC-086"
-        },
-        {
-          "id": "XC-087",
-          "subject": "行测",
-          "kind": "课程",
-          "text": "言语理解第30课时，完成配套练习与复盘",
-          "courseId": "XC-087"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-23",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
+          "id": "focus27-sl-small",
+          "subject": "申论",
+          "kind": "练习",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
           "subject": "行测",
           "kind": "练习",
-          "text": "粉笔自主30题：定义判断优先，兼顾已学薄弱模块；选题正确率40%—80%"
+          "text": "判断推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
         },
         {
-          "id": "xc-paper",
+          "id": "focus27-xc-review",
           "subject": "行测",
-          "kind": "套卷／复盘",
-          "text": "2025目标类别行测真题，09:00—11:00限时"
-        },
-        {
-          "id": "xc-extra",
-          "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2026地市级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-24",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
+          "id": "focus27-sl-paper",
+          "subject": "申论",
+          "kind": "套卷",
+          "text": "江苏目标类别申论第5套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
           "subject": "行测",
           "kind": "练习",
-          "text": "粉笔自主30题：类比推理优先，兼顾已学薄弱模块；选题正确率40%—80%"
+          "text": "资料分析为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
         },
         {
-          "id": "xc-paper",
+          "id": "focus27-xc-review",
           "subject": "行测",
-          "kind": "套卷／复盘",
-          "text": "复盘前日行测套卷：按模块统计正确率、耗时和放弃题"
-        },
-        {
-          "id": "xc-extra",
-          "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2026地市级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-25",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
           "subject": "行测",
           "kind": "练习",
-          "text": "粉笔自主30题：资料分析优先，兼顾已学薄弱模块；选题正确率40%—80%"
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
         },
         {
-          "id": "xc-paper",
+          "id": "focus27-xc-review",
           "subject": "行测",
-          "kind": "套卷／复盘",
-          "text": "2026目标类别行测真题，09:00—11:00限时"
-        },
-        {
-          "id": "xc-extra",
-          "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2026副省级整卷独立作答180分钟；先做后看套卷讲解"
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-26",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
+          "id": "focus27-sl-small",
+          "subject": "申论",
+          "kind": "练习",
+          "text": "公文题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
           "subject": "行测",
           "kind": "练习",
-          "text": "粉笔自主30题：言语理解优先，兼顾已学薄弱模块；选题正确率40%—80%"
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
         },
         {
-          "id": "xc-paper",
+          "id": "focus27-xc-review",
           "subject": "行测",
-          "kind": "套卷／复盘",
-          "text": "复盘前日行测套卷：按模块统计正确率、耗时和放弃题"
-        },
-        {
-          "id": "xc-extra",
-          "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "2026副省级复盘：观看对应套卷课（时长待补）、小题逐点校对、大作文重写问题段"
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-27",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
+          "id": "focus27-sl-small",
+          "subject": "申论",
+          "kind": "练习",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
           "subject": "行测",
           "kind": "练习",
-          "text": "粉笔自主30题：图形推理优先，兼顾已学薄弱模块；选题正确率40%—80%"
+          "text": "判断推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
         },
         {
-          "id": "xc-extra",
+          "id": "focus27-xc-review",
           "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "小题轮换1题或大作文提纲1份；对照答案重写"
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-28",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "回顾",
-          "text": "公式、题型方法与错题回顾",
+          "id": "focus27-sl-paper",
+          "subject": "申论",
+          "kind": "套卷",
+          "text": "江苏目标类别申论第6套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
           "courseId": null
         },
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔30题，降低强度；不追新难题"
-        },
-        {
-          "id": "xc-extra",
-          "subject": "行测",
-          "kind": "补充",
-          "text": "政治理论20分钟、常识10分钟"
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "练习／复盘",
-          "text": "复习各题型作答框架与大作文错例；不做整卷"
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-paper",
+          "subject": "行测",
+          "kind": "套卷",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步复盘30分钟：记录各模块正确率、用时与放弃题，次日继续复盘",
+          "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-29",
-      "phase": "江苏省考备考",
+      "phase": "限时与补弱 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔薄弱模块合计30题，选题正确率40%—80%",
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
           "courseId": null
         },
         {
-          "id": "xc-review",
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
           "subject": "行测",
           "kind": "复盘",
-          "text": "复盘近期套卷与错题，调整省考作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习",
-          "text": "江苏省考小题1题，完成后对照要点重写",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-11-30",
-      "phase": "江苏省考备考",
+      "phase": "考前模拟 · 申论优先",
       "tasks": [
         {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "复盘",
-          "text": "复盘近期行测套卷，整理薄弱模块",
+          "id": "focus27-sl-small",
+          "subject": "申论",
+          "kind": "练习",
+          "text": "公文题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
           "courseId": null
         },
         {
-          "id": "sl-review",
+          "id": "focus27-sl-review",
           "subject": "申论",
           "kind": "复盘",
-          "text": "复盘近期申论套卷，整理漏点与写作问题",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "言语理解为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-12-01",
-      "phase": "江苏省考备考",
+      "phase": "考前模拟 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔类比推理等薄弱模块合计30题，选题正确率40%—80%",
-          "courseId": null
-        },
-        {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "复盘",
-          "text": "重做错题，检查计算与作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "sl-practice",
+          "id": "focus27-sl-small",
           "subject": "申论",
           "kind": "练习",
-          "text": "省考小题1题或大作文提纲1份，复盘前日套卷",
+          "text": "概括题限时手写1—2题，先独立作答再看解析；只针对薄弱方法补课（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "按题目要求、遗漏要点、表达问题、下次改法复盘，重写其中1题（60分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-essay",
+          "subject": "申论",
+          "kind": "大作文",
+          "text": "完成大作文审题、提纲与一个论证段；回看最近全文的问题，避免重复论点（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "判断推理为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "重做3—5道错题并回顾资料、言语方法，政治理论20分钟、常识10分钟（共60分钟）",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-12-02",
-      "phase": "江苏省考备考",
+      "phase": "考前模拟 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔图形推理等薄弱模块合计30题，选题正确率40%—80%",
-          "courseId": null
-        },
-        {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "复盘",
-          "text": "重做错题，检查计算与作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "xc-paper",
-          "subject": "行测",
-          "kind": "套卷",
-          "text": "江苏省考目标类别行测真题1套，按本次考试时限练习",
-          "courseId": null
-        },
-        {
-          "id": "sl-paper",
+          "id": "focus27-sl-paper",
           "subject": "申论",
           "kind": "套卷",
-          "text": "江苏省考目标类别申论真题1套，按本次考试时限练习",
+          "text": "江苏目标类别申论第7套：独立限时150分钟，14:00—16:30作答；记录题目、分项得分和用时",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "初步复盘60分钟：按题目要求、遗漏要点、表达问题、下次改法记录，次日继续修改",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-paper",
+          "subject": "行测",
+          "kind": "套卷",
+          "text": "江苏目标类别行测真题1套，09:00—11:00限时；本日以整卷替代30题专项",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "初步复盘30分钟：记录各模块正确率、用时与放弃题，次日继续复盘",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-12-03",
-      "phase": "江苏省考备考",
+      "phase": "考前模拟 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔逻辑判断等薄弱模块合计30题，选题正确率40%—80%",
+          "id": "focus27-sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "复盘前日江苏申论整卷：逐题核对材料取点与答案分层，记录分项得分及失分原因（90分钟）",
           "courseId": null
         },
         {
-          "id": "xc-review",
+          "id": "focus27-sl-rewrite",
+          "subject": "申论",
+          "kind": "重写",
+          "text": "重写最薄弱小题1题与大作文问题段，修改后再次检查题目要求（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-sl-outline",
+          "subject": "申论",
+          "kind": "巩固",
+          "text": "回忆昨日立意、分论点与作答流程，整理一条下次可执行的改法（30分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-practice",
+          "subject": "行测",
+          "kind": "练习",
+          "text": "数量关系基础题为主，粉笔自主合计30题；选题筛选条件40%—80%，记录实际正确率与用时；不会的方法先补课（90分钟）",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
           "subject": "行测",
           "kind": "复盘",
-          "text": "重做错题，检查计算与作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习",
-          "text": "省考小题1题或大作文提纲1份，复盘前日套卷",
+          "text": "继续复盘前日行测套卷，重做3—5道错题；政治理论20分钟、常识10分钟（共60分钟）",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-12-04",
-      "phase": "江苏省考备考",
+      "phase": "减量回顾 · 申论优先",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔资料分析等薄弱模块合计30题，选题正确率40%—80%",
-          "courseId": null
-        },
-        {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "复盘",
-          "text": "重做错题，检查计算与作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "xc-paper",
-          "subject": "行测",
-          "kind": "套卷",
-          "text": "江苏省考目标类别行测真题1套，按本次考试时限练习",
-          "courseId": null
-        },
-        {
-          "id": "sl-paper",
+          "id": "focus27-sl-review",
           "subject": "申论",
-          "kind": "套卷",
-          "text": "江苏省考目标类别申论真题1套，按本次考试时限练习",
+          "kind": "复习",
+          "text": "回看小题漏点、修改后的答案及大作文框架，不开新卷；核对准考证与考试用品",
+          "courseId": null
+        },
+        {
+          "id": "focus27-xc-review",
+          "subject": "行测",
+          "kind": "复习",
+          "text": "回看常用公式、典型错题与作答顺序，降低强度；确认考点路线与作息",
           "courseId": null
         }
       ]
     },
     {
       "date": "2026-12-05",
-      "phase": "江苏省考备考",
+      "phase": "减量回顾 · 申论优先",
       "tasks": [
         {
-          "id": "xc-review",
-          "subject": "行测",
+          "id": "focus27-sl-review",
+          "subject": "申论",
           "kind": "复习",
-          "text": "回看公式、错题与准考证，降低训练强度",
+          "text": "回看小题漏点、修改后的答案及大作文框架，不开新卷；核对准考证与考试用品",
           "courseId": null
         },
         {
-          "id": "sl-review",
-          "subject": "申论",
+          "id": "focus27-xc-review",
+          "subject": "行测",
           "kind": "复习",
-          "text": "回看题型框架与写作错例，准备考试用品",
+          "text": "回看常用公式、典型错题与作答顺序，降低强度；确认考点路线与作息",
           "courseId": null
         }
       ]
