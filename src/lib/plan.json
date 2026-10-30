@@ -2129,33 +2129,6 @@
       "phase": "江苏省考备考",
       "tasks": [
         {
-          "id": "xc-practice",
-          "subject": "行测",
-          "kind": "练习",
-          "text": "粉笔数量关系等薄弱模块合计30题，选题正确率40%—80%",
-          "courseId": null
-        },
-        {
-          "id": "xc-review",
-          "subject": "行测",
-          "kind": "复盘",
-          "text": "重做错题，检查计算与作答顺序",
-          "courseId": null
-        },
-        {
-          "id": "sl-practice",
-          "subject": "申论",
-          "kind": "练习",
-          "text": "省考小题1题或大作文提纲1份，复盘前日套卷",
-          "courseId": null
-        }
-      ]
-    },
-    {
-      "date": "2026-12-06",
-      "phase": "江苏省考备考",
-      "tasks": [
-        {
           "id": "xc-review",
           "subject": "行测",
           "kind": "复习",
@@ -2172,7 +2145,7 @@
       ]
     },
     {
-      "date": "2026-12-07",
+      "date": "2026-12-06",
       "phase": "江苏省考考试",
       "tasks": [
         {
@@ -2187,6 +2160,26 @@
           "subject": "申论",
           "kind": "考试",
           "text": "参加省考申论，时间以准考证为准",
+          "courseId": null
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "phase": "事业编备考",
+      "tasks": [
+        {
+          "id": "xc-review",
+          "subject": "行测",
+          "kind": "复盘",
+          "text": "复盘省考，整理事业编报考类别与考试科目",
+          "courseId": null
+        },
+        {
+          "id": "sl-review",
+          "subject": "申论",
+          "kind": "复盘",
+          "text": "复盘写作表现，确定后续材料写作训练范围",
           "courseId": null
         }
       ]
@@ -7688,7 +7681,7 @@
   "exams": [
     {
       "name": "江苏省考",
-      "date": "2026-12-07"
+      "date": "2026-12-06"
     },
     {
       "name": "江苏事业编",
